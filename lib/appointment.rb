@@ -14,3 +14,4 @@ class Appointment
   def all
     @@all
   end
+end
